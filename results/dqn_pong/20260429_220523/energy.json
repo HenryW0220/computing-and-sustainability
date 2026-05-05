@@ -1,0 +1,8 @@
+{
+  "env": "ALE/Pong-v5",
+  "algo": "dqn",
+  "n_timesteps": 1000000,
+  "time_s": 3365.45,
+  "total_energy_J": null,
+  "avg_power_W": null
+}

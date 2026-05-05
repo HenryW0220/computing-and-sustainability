@@ -1,0 +1,4 @@
+{
+  "checkpoint_dir": "logs/dqn/ALE-Pong-v5_1",
+  "tensorboard_log_dir": "D:\\NU\\CS\\tb"
+}

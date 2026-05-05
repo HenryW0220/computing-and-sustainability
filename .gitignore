@@ -1,0 +1,10 @@
+rl-baselines3-zoo/
+tb/
+logs/
+test_out/
+ppo_pong_1m.log
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+.env

@@ -1,0 +1,24 @@
+============================================================
+OVERNIGHT TRAINING SUMMARY
+Generated: 2026-04-29 23:01:32
+============================================================
+
+--- PPO (ALE/Pong-v5, 2M steps) ---
+  Return code       : 0
+  Final mean reward : -19.2
+  Best mean reward  : -16.2 (at 1,975,000 steps)
+  Final timestep    : 2,000,000
+  Wall-clock time   : 2s (0.0 min)
+  Checkpoint dir    : d:\NU\CS\logs\ppo\ALE-Pong-v5_6
+  TensorBoard log   : d:\NU\CS\tb\ALE-Pong-v5\PPO_4
+
+--- DQN (ALE/Pong-v5, 1M steps) ---
+  Return code       : 0
+  Final mean reward : -13.2
+  Best mean reward  : -9.8 (at 950000 steps)
+  Wall-clock time   : 3369.7s (56.2 min)
+  Checkpoint dir    : logs/dqn/ALE-Pong-v5_1
+  TensorBoard log   : D:\NU\CS\tb
+  Energy report     : {'env': 'ALE/Pong-v5', 'algo': 'dqn', 'n_timesteps': 1000000, 'time_s': 3365.45, 'total_energy_J': None, 'avg_power_W': None}
+
+============================================================

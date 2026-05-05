@@ -1,0 +1,11 @@
+{
+  "algo": "dqn",
+  "env": "ALE/Pong-v5",
+  "n_timesteps": 1000000,
+  "hyperparams_overrides": [],
+  "hyperparams_hash": "4f53cda18c2b",
+  "git_commit": "unknown",
+  "torch_version": "2.5.1+cu121",
+  "cuda_version": "12.1",
+  "gpu_name": "NVIDIA GeForce RTX 4070 Ti"
+}
