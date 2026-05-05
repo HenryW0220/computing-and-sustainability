@@ -1,0 +1,1 @@
+{"model": "dqn", "env": "ALE/Pong-v5", "num_train_steps": 500, "gpu": "NVIDIA GeForce RTX 4070 Ti, 285.00, 12282"}
